@@ -23,4 +23,5 @@ This project is a Python-based system that allows managing student grades. It pr
 2. Navigate to the project folder.
 3. Run the program by executing the following command:
    ```bash
+
    python StudentRegistrationSystem.py
